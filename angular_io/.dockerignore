@@ -1,0 +1,14 @@
+repo/.git
+repo/node_modules
+repo/bower_components
+repo/jspm_packages
+repo/dist
+repo/public/docs/dart
+repo/public/docs/ts/_cache
+repo/public/docs/_examples/*/dart
+
+angular/.git
+angular/.github
+angular/dist/
+angular/node_modules
+angular/mponents
