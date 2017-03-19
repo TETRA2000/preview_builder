@@ -4,6 +4,4 @@
 [submodule "tmp/angular"]
 	path = angular_io/angular
 	url = https://github.com/angular/angular.git
-[submodule "vendor/github.com/google/go-github"]
-	path = vendor/github.com/google/go-github
-	url = https://github.com/google/go-github.git
+
