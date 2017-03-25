@@ -88,7 +88,6 @@ CMD ["httpd-foreground"]
 ################################ FROM httpd:2.2 ################################
 
 RUN npm install -g gulp
-ADD repo /opt/angular
-ADD repo /opt/repo
+ADD repo/package.json /opt/repo/package.json
 WORKDIR /opt/repo
 RUN npm install
